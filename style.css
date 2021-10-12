@@ -63,6 +63,16 @@ h4 {
     align-items: center;
 }
 
+#myResume {
+    font-size: 24px;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
 #myContact {
     font-size: 24px;
     width: 100vw;
