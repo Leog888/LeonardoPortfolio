@@ -32,41 +32,45 @@ h4 {
 }
 
 #aboutMe {
+    width: 100vw;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
-   
-    margin: 10px;
+    align-items: center;
     font-size: 24px;
 }
 
 #myPortfolio {
     font-size: 24px;
+    width: 100vw;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
-   
-    margin: 10px;
-    font-size: 24px;
+    align-items: center;
 }
+
+
 
 #mySocials {
     font-size: 24px;
+    width: 100vw;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 10px;
-    font-size: 24px;
+    align-items: center;
 }
 
 #myContact {
     font-size: 24px;
+    width: 100vw;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 10px;
-    font-size: 24px;
-
+    align-items: center;
 }
 
 @media (max-width: 576px) {
@@ -77,8 +81,7 @@ h4 {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 50%;
-    margin: 10px;
+    align-items: center;
     font-size: 18px;
 }
 
