@@ -103,6 +103,17 @@ h4 {
     margin: 10px;
     font-size: 18px;
 }
+ 
+#myResume {
+    font-size: 18px;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
 #myContact{
     display: flex;
     flex-direction: column;
