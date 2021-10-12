@@ -16,7 +16,7 @@ h1 {
 }
 #navbox {
 text-align: right;
-font-size: 24px;
+font-size: 34px;
 }
 
 .mainContainer {
@@ -27,8 +27,77 @@ font-size: 24px;
 
 }
 
-.aboutMe {
-    text-align: center;
+h4 {
+    font-weight: bolder;
+}
+
+#aboutMe {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    margin: 10px;
+    font-size: 24px;
+}
+
+#myPortfolio {
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    margin: 10px;
+    font-size: 24px;
+}
+
+#mySocials {
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    font-size: 24px;
+}
+
+#myContact {
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    font-size: 24px;
+
+}
+
+@media (max-width: 576px) {
+h4 {
+    font-size: 24px;
+}
+#aboutMe{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: 50%;
     margin: 10px;
+    font-size: 18px;
 }
+
+#myPortfolio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin: 10px;
+    font-size: 18px;
+}
+#myContact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin: 10px;
+    font-size: 18px;
+}
+}
+
+
