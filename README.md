@@ -1,15 +1,20 @@
 # LeonardoPortfolio
+This is my Porfolio in which contains some of my past work I have done. I would like to showcase my coding skills and commits I have done.
+Feel free to reach out to me at any moment!
+
+## Demo
+
 
 # Live Link
-https://leog888.github.io/LeonardoPortfolio/
-# Tech Used 
-Bootstrap
-HTML
-CSS
+[We Live!](https://leog888.github.io/LeonardoPortfolio/)
 
-# About 
-creating a portfolio to showcase my work of my learning during coding boot camp.
+# Tech Used 
+* Bootstrap
+* HTML
+* CSS
+
+## Authir
 
 # Contact 
-Cel: (510)899-3081
-E-mail: leonardodi.gutierrez@gmail.com
+* Cel: (510)899-3081
+* E-mail: leonardodi.gutierrez@gmail.com
