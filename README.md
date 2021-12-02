@@ -13,7 +13,8 @@ Feel free to reach out to me at any moment!
 * HTML
 * CSS
 
-## Authir
+## Author
+Leonardo Gutierrez
 
 # Contact 
 * Cel: (510)899-3081
